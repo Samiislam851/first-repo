@@ -1,0 +1,15 @@
+*{margin :0px;}
+h1{
+    position: relative;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+   background: purple;
+   color: white;
+   left: 30vw;
+   width: 40vw; 
+   height:auto;
+   padding:20px;
+   text-align: center;
+   border-bottom-left-radius: 10%;
+   border-bottom-right-radius: 10%;
+
+}
