@@ -11,5 +11,11 @@ h1{
    text-align: center;
    border-bottom-left-radius: 10%;
    border-bottom-right-radius: 10%;
+   font-size:xx-large;
 
+}
+p{
+    margin:20px;
+    font-family: cursive;
+    font-size: 1.5em;
 }
